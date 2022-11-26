@@ -6,7 +6,7 @@ This is a web based application developed for health related based website in in
 
 
 **Project Link** -https://zealous-stone-0d2ddd300.2.azurestaticapps.net/
-**project demo video link** - 
+**project demo video link** -https://www.youtube.com/watch?v=e0EE7--t2YY 
 
 ## Azure technologies used for Project
 
